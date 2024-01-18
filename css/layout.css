@@ -45,11 +45,13 @@ body {
 /* Left and right column */
 .column.side {
   width: 25%;
+  float: left; 
 }
 
 /* Middle column */
 .column.middle {
   width: 50%;
+  float: left;
 }
 
 .footer {
